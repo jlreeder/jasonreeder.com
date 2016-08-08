@@ -1,0 +1,41 @@
+#+TITLE: West House Songbook Release
+#+DATE:  [2016-08-06 Sat]
+#+CATEGORY: music
+#+AUTHOR: Jason Reeder
+#+OPTIONS: toc:nil num:nil ^:nil
+#+PROPERTY: SUMMARY Introducing the West House Songbook, a free and open-source collection of musical transcriptions
+After months of work, years of feedback, and hundreds contributing singalongs, I'm happy to announce that the West House Songbook has been fully digitized. All of the songs included in the last version of the print copy are available in the new web app. You can access it here: [[http://whsongbook.jasonreeder.com/][whsongbook.jasonreeder.com]].
+* The Songbook
+The West House Songbook is built for a simple purpose: to provide clear and compact transcriptions for groups singing and playing music together. Like traditional print songbooks, each chart contains enough details to allow most people to sing and play along even if they do not know the song well. At the same time, specific riffs and lyrical lines are omitted if they would make quick reading cumbersome.
+
+Unlike many lyric and tab websites, the West House Songbook has no ads, banners, or distracting links. The song pages are sparse and compact so they they can be read with the minimal degree of scrolling on most devices. The goal is for the transcriptions to support the music, not to get in the way of it.
+
+In addition, the songbook is entirely open-source. This means that anyone and everyone is free to see and contribute to both the song transcriptions and the digital machinery that parses and displays them. The app is built with Python in Flask, and the songs are stored as text files in a unique format inspired by Python and LilyPond.
+
+This initial release features 348 songs in three languages (English, Spanish, and Arabic), and the platform can easily handle additions and modifications.
+* Its History
+This songbook began as an amalgamation of different collections of transcriptions around 2008. Living at a co-op called West House, I worked with a few co-conspirators to combine our existing collection of songs with my own notes and ideas. At the time, we picked Microsoft Word as our format of choice.
+
+Before I knew it I had spent more sleepless nights happily transcribing music for the songbook than I had ever put in for schoolwork, and the beast had grown to hundreds songs. We used the book regularly at open dinners, house singalongs, and camping trips, and many people submitted corrections and additions.
+
+When I moved abroad, I took the book with me to Egypt, Turkey, Morocco, and Jordan, and found that many of the songs struck a chord with people from all around the world. My copy got plenty of use and started to fall apart, but I never found the time to work on a new version. With changes in technology, it seemed like a waste to continue the project as a printed book. The next version needed to be easily accessible on any device.
+
+I started work on a version for the web in early 2016, and used the project as an entry point for learning Flask. Now, after the help of many online tutorials and the mentorship of some excellent developers, the transition has been completed.
+* Its Future
+There are two large avenues for improvement, and I welcome contributions in both: songs and code.
+
+All of the data for each song is included in its ~.song~ file in the GitHub repository: [[https://github.com/jlreeder/whsongbook/tree/master/songs/production][songs]]. These files are just text, formatting in a way that the chord/lyric parser can understand. Corrections to the lyrics, song information, punctuation, chords, or any other aspects of the songs can be made right there. The best way to suggest changes there is to make a pull request ([[https://help.github.com/articles/creating-a-pull-request/][instructions]]). If that's intimidating, but you'd still like to contribute, feel free to be in touch.
+
+The code for the Flask app is also in the repository: [[https://github.com/jlreeder/whsongbook/tree/master/whsongbook][code]]. There are many avenues for expansion, from improving the page styling, to allowing for transposition. Some of my ideas here are listed in the documentation folder of the repository: [[https://github.com/jlreeder/whsongbook/tree/master/documentation][documentation]].
+* Acknowledgments
+This songbook was born out of the West House community, and if it weren't for so many open dinners and Friday singalongs, I would have had neither the idea nor the motivation to put in so many hours to improve the book. For more about West House see [[https://brownwesthouse.wordpress.com/][brownwesthouse.wordpress.com]].
+
+For song transcription, I'm grateful to those members of West House who first began the songbook and those who have helped me to expand it.
+
+The mason jar illustration was created by Marguerite Preston. For more about her writing and her baking see [[http://margueritepreston.com/][margueritepreston.com]].
+
+I have Chris Angelico (aka Rosuav) to thank for many hours of Python mentorship and for defining, editing, and correcting much of the digital machinery. For more about Rosuav see [[https://github.com/rosuav][github.com/rosuav]].
+
+Much of the song markup syntax were inspired by LilyPond ([[http://lilypond.org/][lilypond.org]]) and Chordii: ([[http://www.vromans.org/johan/projects/Chordii/chordpro/][vromans.org]]).
+
+I first learned about folk fake books at the Lair of the Golden Bear, and I modeled my own work here on the Lair Songbook. For more about the Lair see [[http://alumni.berkeley.edu/lair][alumni.berkeley.edu]].

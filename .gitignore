@@ -1,0 +1,5 @@
+output/*
+Makefile
+__pycache__/*
+develop_server.sh
+fabfile.py

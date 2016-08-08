@@ -1,0 +1,2 @@
+#+TITLE: JasonReeder.com
+This repository contains the details of my personal blog and website, built with Pelican.

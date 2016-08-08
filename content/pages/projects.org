@@ -1,0 +1,19 @@
+#+TITLE: Projects
+#+DATE:  [2016-08-06 Sat]
+#+AUTHOR: Jason Reeder
+#+OPTIONS: toc:nil num:nil
+* Projects
+Here are a few groups, organizations, and endeavors that I have been proud to be part of.
+** Present
+- [[https://research.google.com/][Google Research]]: My current 9-5
+- [[https://whsongbook.jasonreeder.com][The West House Songbook]]: An open-source songbook
+- [[http://sanskritlibrary.org/][The Sanskrit Library]]: A digital library of all things Sanskrit
+- [[https://www.facebook.com/thriveeastbay/][Thrive East Bay]]: A community dedicated to transformation
+- [[http://bandworks.com/][Bandworks]]: The most rockinist of rock & roll music schools
+** Past
+- [[http://www.tentmakersofcairo.com/][The Tentmakers of Cairo]]: A film about life and politics on the backdrop of an underappreciated Egyptian art
+- [[http://onlookfilms.com/dev/project/cairo-in-one-breath/][Cairo in One Breath]]: A film about the lives of the /muezzinin/ who perform Cairo's call to prayer
+- [[http://www.learningenterprises.org/][Learning Enterprises]]: A volunteer organization improving the world through language teaching
+- [[http://casa.fas.harvard.edu/][CASA]]: The scholarship that took me to the Arabic-speaking world
+- [[http://www.brown.edu/Student_Services/BOLT/][BOLT]]: The most important thing I did in college
+- [[https://www.brown.edu/academics/contemplative-studies/][The Brown Contemplative Studies Initiative]]: The sound of one hand clapping

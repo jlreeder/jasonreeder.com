@@ -1,0 +1,24 @@
+#+TITLE: About
+#+DATE:  [2016-08-06 Sat]
+#+AUTHOR: Jason Reeder
+#+OPTIONS: toc:nil num:nil
+* Jason Reeder
+** About Me
+I am a linguist, musician, programmer, and punslinger based in the San Francisco Bay Area.
+
+My current work focuses on Arabic computational linguistics for the research arm of a technology company. I have also worked in Arabic-English translation and film subtitling.
+
+I am a guitar player and music teacher, with experience teaching rock, folk, and blues to groups and private students.
+
+My values include promoting global access to information and learning, spreading joy through music and language, and practicing peace through mindfulness.
+** Gratitude
+Tools, groups, and teachers that have added to my life:
+- [[http://orgmode.org/][Org-mode]]: The way manage my digital brain
+- [[http://spacemacs.org/][Spacemacs]]: My text editor of choice
+- [[http://lilypond.org/][LilyPond]]: The way I transcribe music
+- [[http://ankisrs.net/][Anki]]: How I learned Arabic
+- [[http://www.etymonline.com/][Etymonline]]: Words, words, words!
+- [[https://www.coursera.org/][Coursera]]: My mental whetstone
+- [[http://www.basicmindfulness.org/][Basic Mindfulness]]: How I learned to meditate
+- [[http://haddarisadik.com/][Sadik Haddari]]: How I learned calligraphy
+- [[https://www.thinkful.com/][Thinkful]]: How I learned Python
