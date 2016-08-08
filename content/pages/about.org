@@ -13,7 +13,7 @@ I am a guitar player and music teacher, with experience teaching rock, folk, and
 My values include promoting global access to information and learning, spreading joy through music and language, and practicing peace through mindfulness.
 ** Gratitude
 Tools, groups, and teachers that have added to my life:
-- [[http://orgmode.org/][Org-mode]]: The way manage my digital brain
+- [[http://orgmode.org/][Org-mode]]: How I manage my digital brain
 - [[http://spacemacs.org/][Spacemacs]]: My text editor of choice
 - [[http://lilypond.org/][LilyPond]]: The way I transcribe music
 - [[http://ankisrs.net/][Anki]]: How I learned Arabic
