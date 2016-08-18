@@ -1,4 +1,4 @@
-#+TITLE: West House Songbook Release
+#+TITLE: West House Songbook Online
 #+DATE:  [2016-08-06 Sat]
 #+CATEGORY: music
 #+AUTHOR: Jason Reeder
@@ -12,7 +12,7 @@ Unlike many lyric and tab websites, the West House Songbook has no ads, banners,
 
 In addition, the songbook is entirely open-source. This means that anyone and everyone is free to see and contribute to both the song transcriptions and the digital machinery that parses and displays them. The app is built with Python in Flask, and the songs are stored as text files in a unique format inspired by Python and LilyPond.
 
-This initial release features 348 songs in three languages (English, Spanish, and Arabic), and the platform can easily handle additions and modifications.
+This initial release features 350 songs in three languages (English, Spanish, and Arabic), and the platform can easily handle additions and modifications.
 * Its History
 This songbook began as an amalgamation of different collections of transcriptions around 2008. Living at a co-op called West House, I worked with a few co-conspirators to combine our existing collection of songs with my own notes and ideas. At the time, we picked Microsoft Word as our format of choice.
 
