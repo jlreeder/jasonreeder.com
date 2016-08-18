@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Jason Reeder'
-SITENAME = 'Jason Reeder'
-SITEURL = ''
+AUTHOR = "Jason Reeder"
+SITENAME = "Jason Reeder"
+SITEURL = "http://www.jasonreeder.com"
 
 PATH = 'content'
 
