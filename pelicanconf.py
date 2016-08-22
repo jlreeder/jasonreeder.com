@@ -6,11 +6,11 @@ AUTHOR = "Jason Reeder"
 SITENAME = "Jason Reeder"
 SITEURL = "http://www.jasonreeder.com"
 
-PATH = 'content'
+PATH = "content"
 
-TIMEZONE = 'America/Los_Angeles'
+TIMEZONE = "America/Los_Angeles"
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = "en"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -20,16 +20,16 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-# LINKS = (('Pelican', 'http://getpelican.com/'),
-#          ('Python.org', 'http://python.org/'),
-#          ('Jinja2', 'http://jinja.pocoo.org/'),
-#          ('You can modify those links in your config file', '#'),
+# LINKS = (("Pelican", "http://getpelican.com/"),
+#          ("Python.org", "http://python.org/"),
+#          ("Jinja2", "http://jinja.pocoo.org/"),
+#          ("You can modify those links in your config file", "#"),
 #         )
 
 # Social widget
-SOCIAL = (('linkedin', 'https://www.linkedin.com/in/jason-reeder-07481b52'),
-          ('github', 'https://github.com/jlreeder'),
-          ('twitter', 'https://twitter.com/jlreeder'),
+SOCIAL = (("linkedin", "https://www.linkedin.com/in/jason-reeder-07481b52"),
+          ("github", "https://github.com/jlreeder"),
+          ("twitter", "https://twitter.com/jlreeder"),
          )
 
 DEFAULT_PAGINATION = False
@@ -38,8 +38,8 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 # Configure plugins
-PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ['org_reader']
+PLUGIN_PATHS = ["../pelican-plugins"]
+PLUGINS = ["org_reader"]
 ORG_READER_EMACS_LOCATION = "/Applications/Emacs.app/Contents/MacOS/Emacs"
 
 # Configure theme
