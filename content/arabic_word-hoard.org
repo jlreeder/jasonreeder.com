@@ -1,0 +1,27 @@
+#+TITLE: Arabic Word-Hoard
+#+DATE:  [2016-08-21 Sun]
+#+CATEGORY: language
+#+AUTHOR: Jason Reeder
+#+OPTIONS: toc:nil num:nil ^:nil
+#+PROPERTY: SUMMARY A corpus of over 7000 Arabic words and phrases
+I've now spent the better part of the last decade studying Arabic, and the process has left me with a few opinions about foreign language learning. Perhaps at the top of that list is a conviction that the key to moving from a high-intermediate to an advanced level is vocabulary acquisition. With this in mind, I've decided to share my personal collection of Arabic-English glosses.
+
+The word lists can be perused and downloaded on the Language page: [[file:../pages/language.org][link]].
+* Why Vocabulary
+Beyond the fact that words are beautiful things and that celebrating them is one of the more worthwhile pastimes, there are quite practical reasons to focus on learning them. For native English speakers learning Arabic, the study of words is especially relevant. There are many factors that make certain languages hard for certain learners, but one clearly significant factor is vocabulary difference. There is no avoiding the fact that Arabic etymologies rarely have anything to do with the Indo-European roots that most native English speakers are familiar with. The words are just different, and before you know enough of them it's darn hard to figure out what new ones mean.
+
+For most of my first five years studying Arabic, I did not pay special attention to words. Though I learned the words included in the textbook chapters and class lessons that I was studying, I never felt particularly comfortable with my vocabulary. My teachers preached the gospel of reading without a dictionary: "if you come across a word you don't know, figure it out from context." While this is a useful skill, it can be a dangerous dogma. Much like throwing a child into a lake, giving an ill-prepared language student a real text can quickly overwhelm them.
+
+It was after I started my first real word collection that I began to feel like I could actually swim. Just having a central list made a difference: I now had something to do with new words instead of simply feeling bad for not already knowing them. That word-hoard has been growing and changing for years now, and here I'm sharing it's latest form. After starting to collect and systematically learn the new words I came across, I found that Arabic started to open up. I hope it's helpful to others, too.
+* Beyond Single Words
+Many of the items I've included in my collection are larger than single words. In exploring and experimenting with my own learning, I had a lot of success treating multi-word phrases as vocabulary units.
+
+One simple example is with adjectives. I've found that it is hard for me to learn adjectives from lists. Defining a word like شنيع as "horrible, heinous, evil" makes sense intellectually, but doesn't stick in my brain. I've found much more success pairing adjectives with the nouns they often occur with (collocations). For instance, in this list you'll find separate entries for جريمة شنيعة (a heinous crime), إنسان شنيع (a horrible person), and فعل شنيع (an evil deed). These, it turns out, I can remember.
+
+In some cases, I've found it useful to treat as a vocabulary item what others might treat as a grammatical rule. For example, I've included ثاني كبرى مدن البلاد ("the second largest city in the country"). This entry makes for a monstrously-long flash card, and is devilishly specific. It could instead have been expressed by a rule like "to indicate sequence in a comparative list, use {ordinal-num} followed by {elative adjective} followed by {noun}." In the end, I find learning this one example as a fixed phrase is the fastest way for me to learn the rule.
+
+It is these multi-word phrases and collocations that I think are most valuable in my own collection, so I've separated the bunch into three rough categories: phrases consisting of one Arabic word, phrases consisting of two words, and phrases three words or longer. The one-word items are not significantly different than most other word lists available online, but the other two lists contain items more worthy for exploration.
+* Logistics
+I've decided to publish my personal corpus of Arabic-English vocabulary here for a few reasons. First, while the work to collect and transcribe the words is my own, the definitions and examples have come from free public sources. So I feel that it is my responsibility to make freely available to others what I myself have freely acquired. Second, many people have asked me for advice on language learning, and there's no better way to show what I think than to share my actual work. Finally, I hope that opening up this list will encourage others to share their work freely. The free and open flow of information is critical to supporting the world's learners.
+
+There are mistakes, inconsistencies, and typos throughout the collection. Notes and corrections are more than welcome.

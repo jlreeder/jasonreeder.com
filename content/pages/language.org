@@ -1,0 +1,12 @@
+#+TITLE: Language
+#+DATE:  [2016-08-22 Mon]
+#+AUTHOR: Jason Reeder
+#+OPTIONS: toc:nil num:nil
+* Language
+** Arabic Word-Hoard
+*** Notes
+The following is my personal collection of Arabic-English definitions and examples. All mistakes are my own. For more details, see the accompanying blog post: [[file:../arabic_word-hoard.org][Arabic Word-Hoard]].
+*** Lists
+1. [[file:arabic_vocab_one.org][One Word]]
+2. [[file:arabic_vocab_two.org][Two Words]]
+3. [[file:arabic_vocab_three.org][Three Words +]]
