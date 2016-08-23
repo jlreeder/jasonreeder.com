@@ -7,6 +7,7 @@ SITENAME = "Jason Reeder"
 SITEURL = "http://www.jasonreeder.com"
 
 PATH = "content"
+STATIC_PATHS = ["files"]
 
 TIMEZONE = "America/Los_Angeles"
 
@@ -43,6 +44,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = (("Blog", "/"),
              ("About", "/pages/about.html"),
              ("Projects", "/pages/projects.html"),
+             ("Language", "/pages/language.html"),
              ("Songbook", "http://whsongbook.jasonreeder.com/")
             )
 TWITTER_USERNAME = "jlreeder"
