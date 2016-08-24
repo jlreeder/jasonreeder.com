@@ -196,7 +196,7 @@ The list can be downloaded as a csv [[file:../files/arabic_vocab_one.csv][here]]
 |       تطلعات | aspirations                       |                    |                            |                                                                      الشعب |   |
 |       اغتيال | assassination                     |           اغتيالات | assassinations             |                                                                            |   |
 |         حقير | asshole                           |                    |                            |                                                                            |   |
-|        إدخام | assimilation                      |                    |                            |                                                                            |   |
+|        إدماج | assimilation                      |                    |                            |                                                                            |   |
 |        آشوري | Assyrian                          |                    |                            |                                                                            |   |
 |          رَبو | asthma                            |                    |                            |                                                                            |   |
 |         مذهِل | astonishing                       |                    |                            |                                                                            |   |
@@ -2915,7 +2915,7 @@ The list can be downloaded as a csv [[file:../files/arabic_vocab_one.csv][here]]
 |         لفظي | verbal, phonetic                  |                    |                            |                                                                            |   |
 |        فقرات | vertebrae                         |                    |                            |                                                                            |   |
 |        عمودي | vertical                          |                    |                            |                                                                            |   |
-|         جوخة | vertigo                           |                    |                            |                                                                            |   |
+|         دوخة | vertigo                           |                    |                            |                                                                            |   |
 |        صدرية | vest                              |                    |                            |                                                                            |   |
 |        مخضرم | veteran                           |                    |                            |                                                                            |   |
 |          نقض | veto                              |                    |                            |                                                                            |   |
