@@ -23,7 +23,7 @@ AUTHOR_FEED_RSS = None
 # Social widget
 SOCIAL = (("linkedin", "https://www.linkedin.com/in/jason-reeder-07481b52"),
           ("github", "https://github.com/jlreeder"),
-          ("twitter", "https://twitter.com/jlreeder"),
+          ("mail-s", "mailto:info@jasonreeder.com"),
          )
 
 DEFAULT_PAGINATION = False
@@ -41,11 +41,18 @@ THEME = "../pelican-themes/pelican-blue-modified"
 SIDEBAR_DIGEST = "Linguist, Musician, Programmer, Punslinger"
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
-MENUITEMS = (("Blog", "/"),
-             ("About", "/pages/about.html"),
+MENUITEMS = (("Home", "/"),
              ("Projects", "/pages/projects.html"),
              ("Language", "/pages/language.html"),
              ("Songbook", "http://whsongbook.jasonreeder.com/")
             )
-TWITTER_USERNAME = "jlreeder"
+# TWITTER_USERNAME = "jlreeder"
 DISPLAY_SUMMARY = True
+
+# Set "home" and not blog page as home page
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = True
+USE_FOLDER_AS_CATEGORY = True
+PATH = 'content'
+ARTICLE_PATHS = ['articles',]
+PAGE_PATHS = ['pages',]

@@ -1,8 +1,10 @@
-#+TITLE: About
-#+DATE:  [2016-08-06 Sat]
+#+TITLE: Home
+#+DATE: [2016-12-13 Tue]
 #+AUTHOR: Jason Reeder
 #+OPTIONS: toc:nil num:nil
-* Jason Reeder
+#+PROPERTY: URL
+#+PROPERTY: SAVE_AS index.html
+* 
 ** About Me
 I am a linguist, musician, programmer, and punslinger based in the San Francisco Bay Area.
 
